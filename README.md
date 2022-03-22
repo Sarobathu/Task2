@@ -6,7 +6,43 @@ charger
 microphone
 wifi
 bluetooth
-webcamra
+webcamera
 scanner
-#Output
+# Output
 monitor
+printer
+speaker
+headphone
+projector
+desktop
+brightness
+letters
+sound
+cemera
+# Application
+chrome
+whatsapp
+facebook
+audio player
+ms office
+clock
+paint
+photoshop
+games
+play store
+# System
+windows 11
+windows xp
+windows 10
+windows 8
+windows 7
+ios
+linux
+redhat
+macintosh
+android
+
+
+
+
+
