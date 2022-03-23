@@ -1,5 +1,4 @@
 # Input device
-==============
 1) keybord
 2) mouse
 3) usb
